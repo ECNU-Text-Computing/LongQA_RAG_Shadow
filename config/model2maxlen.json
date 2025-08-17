@@ -1,0 +1,11 @@
+{
+    "llama2-7b-chat-4k": 3500,
+    "llama2-7b-chat-4k-shadow": 3500,
+    "llama2-7b-chat-4k-rag": 3500,
+    "llama3-8b-instruct": 7500,
+    "llama3-8b-instruct-shadow": 7500,
+    "Mistral-7b-instruct-8k": 7500,
+    "Mistral-7b-instruct-8k-rag": 7500,
+    "Mistral-7b-instruct-8k-shadow": 7500,
+    "llama3-8b-instruct-rag": 15500
+}
